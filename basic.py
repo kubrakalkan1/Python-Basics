@@ -112,4 +112,8 @@
 ########## TUPLES ##############
 # numbers = (1,2,3,3) # tuples are immutable and unchangeable
 # print(numbers.count(3)) #2
+############ UNPACKING ############
+# coordinates = (1,2,3) 
+# x, y, z = coordinates
+# print(x) #1
 
